@@ -1,7 +1,7 @@
 import cv2
 import os
 
-video_path = "/home/prakhargupta/Desktop/M26_Spring/UAV/Project/video_2026-05-06_23-54-22 (online-video-cutter.com).mp4"   # <-- change this
+video_path = "video_2026-05-06_23-54-22 (online-video-cutter.com).mp4"   # <-- change this
 output_dir = "extracted_frames"
 
 num_frames_to_extract = 1000
